@@ -1,0 +1,17 @@
+.button {
+    color: white;
+    background-color: #c40044;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+.dropdown-menu {
+    position: absolute;
+}
+.dropdown-item {
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 5px;
+    display:none;
+}
